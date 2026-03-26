@@ -25,6 +25,13 @@ h1 {
   gap: 5px;
 }
 
+.filters {
+  margin-top: 20px;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+
 input {
   flex: 1;
   padding: 10px;
